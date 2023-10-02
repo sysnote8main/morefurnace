@@ -78,6 +78,6 @@ local.properties
 # Linux
 *~
 
-run/
+/run/
 
 logs/
